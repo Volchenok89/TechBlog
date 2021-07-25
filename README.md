@@ -1,7 +1,6 @@
 # TheTechBlog
 
 #   Model-View-Controller (MVC) Challenge: Tech Blog
-![techblogscreenshot](https://user-images.githubusercontent.com/77917594/126886496-a3bdb7be-7c7d-401c-946a-4b82b6a9609e.png)
 
 ## Challenge 14
 
