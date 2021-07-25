@@ -1,22 +1,7 @@
 # TheTechBlog
 
-
-
-## Description
-
-
-## Table of Contents
-- [Installation](#installation/usage)
-- [Contribution](#contribution)
-- [License](#license)
-
-
-## Deployment
-
-
-
-
 #   Model-View-Controller (MVC) Challenge: Tech Blog
+![techblogscreenshot](https://user-images.githubusercontent.com/77917594/126886496-a3bdb7be-7c7d-401c-946a-4b82b6a9609e.png)
 
 ## Challenge 14
 
@@ -51,6 +36,7 @@ Heroku Deployment:
 https://thetechblog2.herokuapp.com/
 
 
+![techblogscreenshot](https://user-images.githubusercontent.com/77917594/126886499-5f6ac088-bf8e-4ac9-957a-7214e2036402.png)
 
 
 
